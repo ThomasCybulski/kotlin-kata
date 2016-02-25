@@ -1,8 +1,7 @@
 import org.junit.Test
 
-class PersonTest {
+class KassenbuchTest {
     @Test fun testAssert() : Unit {
-
 
     }
 }
